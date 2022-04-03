@@ -55,7 +55,7 @@ class ViewController: UIViewController {
         }
         
     }
-    @objc func tappedButton () {
+    @objc func tappedButton () {  
         print(nameTextField.text ?? "")
     }
     
